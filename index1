@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio entregable para clase 04/10/2024</title>
+</head>
+<body>
+    <h2 style="background-color:rgb(224, 191, 217)"; tabindex="4" id="encabezado">Ejercicio entregable 	&infin;</h2>
+      <p style="background-color:rgb(224, 191, 217);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+      <p id="segundo" hidden>Otro párrafo</p>
+      <p contenteditable="true" tabindex="2">Haz click <b>aquí</b> para cambiarlo</p>
+      <p lang="en" translate="yes">This paragraph is written in English</p>
+
+    <input type="text" tabindex="1">
+    <input type="text" tabindex="3">
+    <input type="text" tabindex="5">
+</body>
+</html>
